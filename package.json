@@ -1,6 +1,6 @@
 {
   "name": "agenticjobs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AgenticJobs CLI — the job board for the agentic AI era",
   "homepage": "https://agenticjobs.co",
   "repository": {
@@ -15,11 +15,11 @@
     "bin/"
   ],
   "optionalDependencies": {
-    "agenticjobs-darwin-arm64": "0.1.0",
-    "agenticjobs-darwin-x64": "0.1.0",
-    "agenticjobs-linux-x64": "0.1.0",
-    "agenticjobs-linux-arm64": "0.1.0",
-    "agenticjobs-win32-x64": "0.1.0"
+    "agenticjobs-darwin-arm64": "0.0.1",
+    "agenticjobs-darwin-x64": "0.0.1",
+    "agenticjobs-linux-x64": "0.0.1",
+    "agenticjobs-linux-arm64": "0.0.1",
+    "agenticjobs-win32-x64": "0.0.1"
   },
   "engines": {
     "node": ">=16"
