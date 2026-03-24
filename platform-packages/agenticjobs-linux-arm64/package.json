@@ -1,9 +1,13 @@
 {
   "name": "agenticjobs-linux-arm64",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "AgenticJobs CLI binary — Linux ARM64",
-  "os": ["linux"],
-  "cpu": ["arm64"],
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "arm64"
+  ],
   "license": "MIT",
   "bin": {},
   "files": [
