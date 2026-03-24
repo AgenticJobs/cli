@@ -1,0 +1,12 @@
+{
+  "name": "agenticjobs-linux-x64",
+  "version": "0.0.1",
+  "description": "AgenticJobs CLI binary — Linux x64",
+  "os": ["linux"],
+  "cpu": ["x64"],
+  "license": "MIT",
+  "bin": {},
+  "files": [
+    "bin/"
+  ]
+}

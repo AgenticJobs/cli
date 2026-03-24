@@ -1,0 +1,12 @@
+{
+  "name": "agenticjobs-darwin-arm64",
+  "version": "0.0.1",
+  "description": "AgenticJobs CLI binary — macOS Apple Silicon",
+  "os": ["darwin"],
+  "cpu": ["arm64"],
+  "license": "MIT",
+  "bin": {},
+  "files": [
+    "bin/"
+  ]
+}
